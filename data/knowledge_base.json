@@ -1,0 +1,60 @@
+{
+  "company": {
+    "name": "COB Company",
+    "founded": "2010",
+    "industries": ["Finance", "Healthcare", "Retail", "Technology"],
+    "about": "COB Company is a leading provider of business consulting and digital transformation services. Founded in 2010, it serves clients across finance, healthcare, retail, and technology sectors."
+  },
+  "services": {
+    "Business Consulting": "Strategy, operations, market entry, and organizational design.",
+    "Digital Transformation": "Cloud migration, ERP implementation, and process automation.",
+    "Product Development": "Custom software, mobile apps, and AI-powered solutions.",
+    "Training & Workshops": "Corporate upskilling, agile coaching, and leadership training."
+  },
+  "pricing": {
+    "consultation_sessions": "$150/hour",
+    "project_pricing": "Project-based pricing is available for large engagements with a custom quote.",
+    "discovery_call": "All new clients get a free 30-minute discovery call.",
+    "retainer_packages": "$1,200/month"
+  },
+  "locations": {
+    "Cairo HQ": {
+      "address": "12 Tahrir Square, Downtown Cairo",
+      "hours": "Open Sun–Thu, 9 AM–6 PM"
+    },
+    "Dubai Office": {
+      "address": "Business Bay, Tower 3, Suite 410",
+      "hours": "Open Mon–Fri, 9 AM–6 PM"
+    },
+    "London Office": {
+      "address": "45 Canary Wharf, Level 8",
+      "hours": "Open Mon–Fri, 9 AM–5 PM"
+    }
+  },
+  "appointment_types": [
+    "New Product Consultation",
+    "Business Strategy Review",
+    "Technical Assessment",
+    "Training & Onboarding Session",
+    "Follow-up / Support Meeting"
+  ],
+  "contact": {
+    "email": "support@cobcompany.com",
+    "phone_cairo": "+20 2 1234 5678",
+    "phone_dubai": "+971 4 987 6543",
+    "live_chat": "live chat on the website is available 24/7"
+  },
+  "policies": {
+    "cancellation_refund": [
+      "Appointments can be cancelled up to 24 hours in advance for a full refund.",
+      "Same-day cancellations incur a 50% fee.",
+      "No-shows are non-refundable.",
+      "Project deposits (30%) are non-refundable after kick-off."
+    ]
+  },
+  "faq": {
+    "reschedule": "To reschedule an appointment, contact support@cobcompany.com or call at least 24 hours before the scheduled time.",
+    "remote_consultations": "Yes. All services are available remotely via Zoom or Google Meet. Just mention that you prefer a remote meeting when booking.",
+    "project_duration": "Typical timelines: small projects take 2–4 weeks, medium projects take 1–3 months, and large transformations take 6–12 months."
+  }
+}
